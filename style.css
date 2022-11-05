@@ -1,0 +1,51 @@
+body {
+        background-color: #d6e7f7;
+        margin: 40px
+}
+
+.cabecalho {
+    color: #1e3f66;
+    text-align: center;
+    text-decoration: underline rgb(168, 11, 11);
+}
+
+#banner{   
+        padding-left: 5%;
+        width: 90%;
+        height: 450px
+}
+
+#titulovermelho{
+    color:rgb(168, 11, 11);
+    text-decoration: underline #0b2ab6
+}
+
+strong em {
+        color: #1e3f66;
+        text-decoration: underline rgb(168, 11, 11)
+}
+
+h4{
+    color:#1e3f66;
+    text-decoration: underline rgb(168, 11, 11)
+}
+
+ul {
+    display: inline-block;
+    vertical-align:top;
+    width: 30%;
+    margin-right: 10%;
+}
+
+#bolha{
+        width: 40%;
+        height: 250px
+}
+
+.fonte110 {
+        font-size: 110%
+}
+
+.fonte120{
+        font-size: 120%
+}
